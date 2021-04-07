@@ -1,6 +1,6 @@
 - 👋 Hi, I’m mohan patidar
 - 👀 I’m interested in full stack development
-- 🌱 I’m currently learning angular
+- 🌱 I’m currently learning ruby on rails 
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
